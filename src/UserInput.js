@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 
 class UserInput extends Component {
-  //Even though we are passing props, we don't have to write it in the stateful component?
   state = { name: "" };
   updateName = (event) => {
     this.setState({ name: event.target.value });
