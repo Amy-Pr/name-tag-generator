@@ -9,5 +9,5 @@ Created with CodeSandbox
   <li>Javascript/JSX</li>
   <li>React</li>
   <li>CodeSandbox</li>
-  <li>Deployed from CodeSandbox to Netlify for live link</li>
+  <li>Deployed from CodeSandbox to Netlify for live link: https://name-tags.netlify.app/</li>
   </ul>
